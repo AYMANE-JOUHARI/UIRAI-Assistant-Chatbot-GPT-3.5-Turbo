@@ -68,3 +68,7 @@ UIRAI-GPT-3.5-Turbo/
 - **User Feedback Collection**: Implement a feedback loop to improve response quality.
 - **Integration with Other LLMs**: Test and add other models for more diverse responses.
 
+## License
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
